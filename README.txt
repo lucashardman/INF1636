@@ -1,4 +1,4 @@
-# INF1636
+INF1636
 
 ->Ao abrir o jogo a uma primeira tela aparece com duas opções:
 Pressione: "Novo Jogo" para iniciar uma partida.
